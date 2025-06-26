@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Neel+Patel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Neel+Patel" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,10 +12,6 @@
 
 ---
 
-<div align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" />
-</div>
-
 ## 🎯 About Me
 
 <div align="center">
@@ -24,14 +20,31 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status" />
 </div>
 
-- 🔥 **Currently Building**: Multiple websites and applications to enhance my frontend development skills and create an impressive portfolio
-- 🚀 **Learning**: Backend development (Node.js, Express, MongoDB) to become a full-stack developer
+- 🔥 **Currently Building**: Multiple websites and applications to enhance my frontend development skills
+- 🚀 **Learning**: Backend development (Node.js, Express, MongoDB) to become full-stack ready
 - 💡 **Passion**: Creating beautiful, responsive, and user-friendly web applications
 - 🎨 **Focus**: Modern UI/UX design, smooth animations, and optimal user experiences
 - 🌟 **Goal**: Land a frontend developer internship to grow and contribute to real-world projects
-- 🛠️ **Tech Stack**: Next.js, React, Tailwind CSS, TypeScript, MongoDB, Stripe, Clerk, ShadCN UI, Aceternity UI, Framer Motion, GSAP
-- 📧 **Contact**: pneel1924@gmail.com
-- 🌐 **Portfolio**: Coming Soon 🔥
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Let's%20Connect!-Professional%20Networking-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/neel-patel-52192a272/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pneel1924@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Neel194">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
@@ -119,26 +132,6 @@
 - 🎨 **UI/UX Enhancement**: Improving design skills with advanced CSS, animations, and user experience
 - 🚀 **Performance Optimization**: Learning to build faster, more efficient applications
 - 💼 **Internship Ready**: Actively seeking frontend developer internship opportunities
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Let's%20Connect!-Professional%20Networking-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/neel-patel-52192a272/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pneel1924@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Neel194">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
 ---
 
